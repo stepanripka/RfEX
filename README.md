@@ -1,7 +1,8 @@
 # R for Econometrics
 Welcome to the lectures repository of R for Econometrics 2019 at CERGE-EI.
 
-[Q&A form](https://tinyurl.com/y7nqfm8z)
+[Q&A form](https://tinyurl.com/y5zguodu)
+[Q&A answers](https://tinyurl.com/ulrvm29)
 
 The list of topics follows bellow:
 

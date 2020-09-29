@@ -1,7 +1,7 @@
 ---
 title: "Lecture 1"
 author: "Michal Kubi&#353;ta"
-date: "2018/09/26"
+date: "2020/09/30"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -45,7 +45,6 @@ class: middle, inverse
 ## Grading
 - Pass or fail
 - 4 small tests
-    - max 20 min
     - weeks 4, 7, 10, 13
     - each worth 25 points
 - <font color= "orange"><b>Conditions to pass</b></font>
@@ -57,4 +56,3 @@ class: middle, inverse
 class: middle, inverse
 
 # R & RStudio
-
