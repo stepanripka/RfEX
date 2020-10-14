@@ -1,7 +1,7 @@
 ---
 title: "Lecture 3"
 author: "Michal Kubi&#353;ta"
-date: "2018/10/10"
+date: "2020/10/14"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -23,7 +23,7 @@ output:
 - bundle of packages for ETL
 - good for middle sized datasets (~ till 5M cells)
 - the easy and robust way
-```{r tidyverse, echo = F}
+```{r tidyverse, include= F}
 library(tidyverse)
 ```
 

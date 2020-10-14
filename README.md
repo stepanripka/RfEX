@@ -15,7 +15,3 @@ The list of topics follows bellow:
 7. Regex, string functions
 8. Data cleaning
 9. Visualisation basic & ggplot
-10. Statistical calculations
-11. Linear models
-12. Linear models 2
-13. Wrap up

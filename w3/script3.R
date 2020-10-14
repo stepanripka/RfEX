@@ -40,7 +40,6 @@ now$hour
 now$wday
 now$yday
 
-
 # 3.) FUN WITH CASTING ----------------------------------------------------
 c(T, NA) # boolean
 c(T, NA, 1) # numeric
